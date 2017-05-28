@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sesli Gazete (Güncel Son Dakika Haberleri)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="haberi_dinle">Haberi Dinle</string>
+    <string name="haberi_durdur">Seslendirmeyi Durdur</string>
+    <string name="str_guncelle">Haberleri Güncelle</string>
+
+</resources>
